@@ -153,7 +153,7 @@ self.TIME_WINDOW = 300  # Fenêtre temporelle en secondes
 **Formation :** Administrateur d'Infrastructures Sécurisées  
 **Portfolio :** [val-cyber-pentester.github.io](https://val-cyber-pentester.github.io)  
 **GitHub :** [VAL-cyber-pentester](https://github.com/VAL-cyber-pentester)
-```
+
 
 
 
