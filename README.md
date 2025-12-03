@@ -43,7 +43,7 @@ Analyseur de logs de sécurité développé en Python pour détecter les tentati
 
 ![Terminal Analysis](screenshot-terminal.png)
 ![HTML Report](screenshot-terminal2.png)
-![Charts](screenshot-graphique.png)
+![Charts](Screenshot-graphique.png)
 
 ## 🛠️ Technologies
 
